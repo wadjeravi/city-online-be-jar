@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="city-online-be-jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cityonline-0.0.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/puneayurveda-1.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cityonline-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LaturOnline-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
